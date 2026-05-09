@@ -436,7 +436,3 @@ function Footer() {
     </footer>
   );
 }
-
-function Index() {
-  return <PlaceholderIndex />;
-}
